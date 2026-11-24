@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="760" height="470" rx="14" fill="#101418"/>
+  <rect x="1" y="1" width="758" height="468" rx="13" fill="none" stroke="#2a3440" stroke-width="1"/>
+  <text x="36" y="52" font-size="24" font-weight="700" fill="#f2f5f7">Pump.fun Replay Sprint — rev2</text>
+  <text x="36" y="78" font-size="14" fill="#8fa0ae">Dispersed Pullback Rider · paper bot · official grade-local (process driver)</text>
+  <rect x="36" y="98" width="330" height="40" rx="8" fill="#3a1d1d"/>
+  <text x="52" y="124" font-size="16" font-weight="700" fill="#ff8a80">VERDICT: HOLD — expectancy negative</text>
+  <text x="400" y="124" font-size="14" fill="#8fa0ae">dev PnL −0.054 SOL · old bot +0.193 SOL</text>
+  <line x1="36" y1="156" x2="724" y2="156" stroke="#2a3440"/>
+  <g font-size="15" fill="#c9d4dc">
+    <text x="36" y="192">Net PnL (dev, official)</text><text x="724" y="192" text-anchor="end" font-weight="700" fill="#ff8a80">−0.054 SOL</text>
+    <text x="36" y="224">Win rate / round trips / coins</text><text x="724" y="224" text-anchor="end" font-weight="700" fill="#f2f5f7">22.4% · 183 · 145</text>
+    <text x="36" y="256">Max drawdown</text><text x="724" y="256" text-anchor="end" font-weight="700" fill="#f2f5f7">1.18%</text>
+    <text x="36" y="288">Top-3 share of gains (old: 94.0%)</text><text x="724" y="288" text-anchor="end" font-weight="700" fill="#7ddc8a">34.9%</text>
+    <text x="36" y="320">Net PnL without top-3</text><text x="724" y="320" text-anchor="end" font-weight="700" fill="#ff8a80">−0.171 SOL</text>
+    <text x="36" y="352">OOS quarters (4× 6h)</text><text x="724" y="352" text-anchor="end" font-weight="700" fill="#f2f5f7">+0.007 / −0.082 / −0.013 / −0.043</text>
+    <text x="36" y="384">Stress median (8 copies, 8/8 losing)</text><text x="724" y="384" text-anchor="end" font-weight="700" fill="#ff8a80">−0.242 SOL</text>
+  </g>
+  <line x1="36" y1="404" x2="724" y2="404" stroke="#2a3440"/>
+  <text x="36" y="432" font-size="13" fill="#8fa0ae">Diversified and small-drawdown — but no tested signal clears execution costs.</text>
+  <text x="36" y="452" font-size="13" fill="#8fa0ae">Full forensics, sweeps and stress: STRATEGY.md · deterministic: action logs matched (2 runs).</text>
+</svg>
